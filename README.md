@@ -2,7 +2,7 @@
   <content>
 ## Sombrero_bot
 
-Sombrero bot is a simple telegram bot that looks at faces in a picture and places a sombrero on top of there head.
+Sombrero bot is a simple telegram bot that looks at faces in a picture and places a sombrero on top of their head.
 
 ## Installation
 Before this bot can be used please install:
