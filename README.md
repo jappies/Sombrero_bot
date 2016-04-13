@@ -1,13 +1,14 @@
 <snippet>
-  <content><![CDATA[
-# ${1:sombrero_bot}
+  <content>
+## Sombrero_bot
 
 Sombrero bot is a simple telegram bot that looks at faces in a picture and places a sombrero on top of there head.
 
 ## Installation
 Before this bot can be used please install:
+
 1. [python (duh)](https://www.python.org/)
-1. [NumPy](http://www.numpy.org/)
+2. [NumPy](http://www.numpy.org/)
 2. [opencv](http://opencv.org/)
 
 ## Usage
@@ -16,7 +17,7 @@ Before this bot can be used please install:
 2. run `python main.py`
 3. send a photo, with the caption "/sombrero"
 
-Try it here : [sombrero_bot]{https://telegram.me/sombrero_bot}
+Try it here : [sombrero_bot](https://telegram.me/sombrero_bot)
 
 ## Contributing
 
@@ -31,7 +32,7 @@ Try it here : [sombrero_bot]{https://telegram.me/sombrero_bot}
 Thanks to the guys @ [realpython](https://realpython.com/) for the details. (If you want to understand how the face recognition code works, the details are here:
 https://realpython.com/blog/python/face-recognition-with-python/) 
 
-Thanks @ [flammified]{https://github.com/flammified}  
+Thanks @ [flammified](https://github.com/flammified)  
 
 ## License
 
@@ -56,6 +57,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
